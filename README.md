@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishnu raj c
-- 👀 I’m interested in front end development
-- 🌱 I’m currently a fresher who is looking for a job
+- 👀pythondjango fullstack developer
+- 🌱 recent graduate looking for a entry level oppurtunity
 - 💞️ I’m a engineer
 - 📫 reach me through vishnurajcheerankuzhi@gmail.com
 
